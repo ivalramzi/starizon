@@ -14,7 +14,7 @@ Butuh Node.js 20.9 atau lebih baru.
 
 ## Halaman
 
-- `Starizon___Studio_Desain_dan_Teknologi.html` → `/Starizon___Studio_Desain_dan_Teknologi` (`app/Starizon___Studio_Desain_dan_Teknologi/page.tsx`)
+- `Starizon___Studio_Desain_dan_Teknologi.html` → `/` (`app/page.tsx`). URL lama `/Starizon___Studio_Desain_dan_Teknologi` otomatis diarahkan ke `/`.
 
 ## Yang perlu diketahui
 
